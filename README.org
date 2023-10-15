@@ -4,6 +4,6 @@ FMCS: the Flavors Meta-Class System for Common Lisp and alternative to CLOS+MOP,
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/thephoeron/fmcs.git |
-| commit  | f6d8326                                    |
+| commit  | 6109fb3                                    |
 | systems | fmcs                                       |
 |---------+--------------------------------------------|
